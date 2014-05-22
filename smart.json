@@ -1,0 +1,10 @@
+{
+  "name": "youtube",
+  "description": "A meteorite package pulls in youtube-feeds NPM package for working with the youtube api",
+  "homepage": "https://github.com/Differential/youtube",
+  "author": "Differential (http://differential.io)",
+  "version": "0.0.1",
+  "git": "https://github.com/Differential/youtube.git",
+  "packages": {
+  }
+}
